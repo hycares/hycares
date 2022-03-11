@@ -2,7 +2,7 @@
 
   ❤ Open Source.
 
-  💛 C-Plus-Plus
+  💛 C/CPP
   
   💚 \*NIX
 
@@ -11,6 +11,7 @@
   🧡 Vim
 
 - 📚 I’m currently studying at SCUT.
+- 🌱 I’m currently learning kernel developing.
 - 🤔 I’m looking for help with the meaning of life...
 
 <!--
